@@ -1,0 +1,41 @@
+
+body {
+    font-family: Arial;
+    background-color: #f0f4f8;
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    width: 60%;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #174ea6;
+}
+
+h2 {
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+th {
+    background-color: #174ea6;
+    color: white;
+}
+
+p {
+    font-size: 18px;
+}
